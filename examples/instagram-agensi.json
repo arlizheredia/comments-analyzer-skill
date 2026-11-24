@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "post_url": "https://www.instagram.com/p/DEMO123abc/",
+  "comments": [
+    {"id": "17900000000000001", "text": "Me encanta este producto, excelente calidad 😍", "created_at": 1732370400,
+     "user": {"username": "maria.lopez", "id": "111"}, "comment_like_count": 24, "child_comment_count": 1,
+     "replies": [
+       {"id": "17900000000000002", "text": "@maria.lopez ¡Gracias María! 🙏", "created_at": 1732374000,
+        "user": {"username": "kanasta24", "id": "999"}, "comment_like_count": 3}
+     ]},
+    {"id": "17900000000000003", "text": "¿Hacen envíos a Santiago? ¿Cuánto demora?", "created_at": 1732377600,
+     "user": {"username": "pedro_g", "id": "112"}, "comment_like_count": 2},
+    {"id": "17900000000000004", "text": "Pésimo servicio, mi pedido llegó dañado y nadie responde 😡", "created_at": 1732381200,
+     "user": {"username": "ana.r", "id": "113"}, "comment_like_count": 15},
+    {"id": "17900000000000005", "text": "No es malo, pero la entrega fue muy lenta", "created_at": 1732456800,
+     "user": {"username": "luis_m", "id": "114"}, "comment_like_count": 0}
+  ],
+  "next_cursor": null
+}
